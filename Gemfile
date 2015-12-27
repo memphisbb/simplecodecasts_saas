@@ -47,6 +47,7 @@ gem 'figaro', '1.0.0'
 # use papaer clip for image uploads
 gem 'paperclip', '4.2.1'
 
+gem 'devise', '3.4.1'
 
 
 # Use ActiveModel has_secure_password
